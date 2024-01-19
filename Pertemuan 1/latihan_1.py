@@ -1,0 +1,7 @@
+print("Nama: Guido van Rossum")
+print("======================")
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
